@@ -1,0 +1,20 @@
+import turtle
+my_turtle=turtle.Turtle()
+my_turtle.color("Cyan")
+my_turtle.begin_fill()
+for i in range(3):
+    my_turtle.fd(100)
+    my_turtle.left(120)
+my_turtle.end_fill()
+my_turtle.left(90)
+my_turtle.penup()
+my_turtle.fd(60)
+my_turtle.pendown()
+my_turtle.right(90)
+my_turtle.color("Cyan")
+my_turtle.begin_fill()
+for i in range(3):
+    my_turtle.fd(100)
+    my_turtle.right(120)
+my_turtle.end_fill()
+turtle.done()
