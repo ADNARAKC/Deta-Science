@@ -1,0 +1,3 @@
+file=open('New Text Document.txt')
+print(file.read())
+file.close()
