@@ -1,0 +1,5 @@
+Coding...
+My name is Adhrit and I learn Python in Codingal
+Python is an programming language.
+Codingal is a platform to learn coding.
+I am 14 years old.
