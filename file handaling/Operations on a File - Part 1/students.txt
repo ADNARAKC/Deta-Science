@@ -1,0 +1,4 @@
+Name: Roy
+Class: 8
+Favorite Subject: Math
+Additional Favorite Subject: Science
