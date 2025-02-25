@@ -10,3 +10,8 @@ while x:
     x>>=1
 
 print("Minimum flips are", flips)
+
+Write a program to clear (set to 0) the nth bit of a number.
+
+Example: Clear the 1st bit of 7 (binary 111) to get 5 (binary 101).
+
